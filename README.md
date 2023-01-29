@@ -1,5 +1,5 @@
 # Numerical Analysis II: A1
-Execute the __main__ scripts to generate the graphics and pictures used to produce the PDF.
+Execute the __main__ scripts in folders B.1, B.2 and B.3 to generate the graphics and pictures used to produce the PDF.
 
 Please note that THESE ARE NOT NOTEBOOKS. Running the command
 ```R
